@@ -1,0 +1,36 @@
+.friendPlay.form {
+  display: flex;
+}
+.friendPlay.form .textInput {
+  min-width: 200px;
+}
+.friendPlay.form .textInput.invalid {
+  background-color: red;
+  font-style: italic;
+}
+.friendPlay.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 5em;
+  margin: 1px 10px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 100%;
+}
+.friendPlay.button.isFetching {
+  background-image: url('https://apdw.com/images/balls_loading.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.friendPlay.status {
+  margin: 10px 1px;
+  display: list-item;
+  list-style-type: square;
+  list-style-position: inside;
+}
+.friendPlay.form label {
+  display: inline-block;
+  margin: 5px;
+}

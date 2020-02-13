@@ -1,0 +1,33 @@
+<template>
+  <require from="user-toggle-list/user-toggle-list"></require>
+  <require from="app-user-list/app-user-list"></require>
+  <require from="./app.css"></require>
+
+  <h1>FriendPlay</h1>
+
+  <form class="friendPlay form" submit.trigger="fetchData()">
+    <div>
+      <input value.from-view="userId" class="friendPlay id textInput" class.to-view="isBigInt(userId) || 'invalid'" type="text" placeholder="SteamUserId" />
+      <input value.from-view="ownershipThreshold" class="friendPlay ownerThreshold textInput" type="text" placeholder="Min owners per app (default: 2)" />
+      <br/>
+      <label><input type="checkbox" checked.two-way="onlyUserOwned" />Only user owned</label>
+      <label><input type="checkbox" checked.two-way="includePlayedFreeGames" />Include played free games</label>
+    </div>
+    <button disabled.to-view="isFetching || !isBigInt(userId)" class="friendPlay button" class.to-view="isFetching && 'isFetching'" type="Submit">
+      <span show.bind="!isFetching">Go!</span>
+    </button>
+  </form>
+
+  <div class="friendPlay status">${statusMsg}</div>
+  <hr>
+  <user-toggle-list show.bind="success" users.to-view="users" view-model.ref="userlist" ></user-toggle-list>
+  <app-user-list show.bind="success" apps.to-view="apps" userfilter.to-view="userlist.selected" ></app-user-list>
+  <hr show.bind="success">
+
+  <style>
+    body {
+      background-color: rgb(48, 48, 64);
+      color: blanchedalmond;
+    }
+  </style>
+</template>

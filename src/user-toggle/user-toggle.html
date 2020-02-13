@@ -1,0 +1,11 @@
+<template>
+  <require from="./user-toggle.css"></require>
+  
+  <label class="userToggle">
+    <input class="toggle-input" type="checkbox" checked.bind="isSelected" />
+    <span class="toggle-content">
+      <img class="userAvatar" src.one-time='user.avatar.full'>
+      <div class="toggle-label userName">${user.name & oneTime}</div>
+    </span>
+  </label>
+</template>

@@ -1,0 +1,73 @@
+.appUserRow {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+.appUserRow .appName {
+  align-self: center;
+  font-weight: bold;
+  width: 100%;
+  min-width: 15em;
+  text-overflow: clip;
+  word-wrap: break-word;
+}
+.appUserRow .owners {
+  margin-left: auto;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  list-style: none;
+  padding: 1px;
+  margin: 1px;
+}
+.appUserRow .owners li {
+  margin-left: auto;
+}
+.appUserRow .users .appUserAvatar {
+  width: 32px;
+  height: 32px;
+}
+.hasToolTip {
+  border-bottom: 1px dotted black;
+  position: relative;
+}
+.hasToolTip .toolTipText {
+  white-space: nowrap;
+  font-weight: lighter;
+  font-size: small;
+  width: fit-content;
+  visibility: hidden;
+  height: fit-content;
+  min-width: 5em;
+  background-color: #557;
+  color: white;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+}
+.hasToolTip:hover .toolTipText {
+  visibility: visible;
+}
+.hasToolTip .toolTipText::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  right: 15px;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #557 transparent transparent transparent;
+}
+.hasToolTip.appName .toolTipText {
+  left: 1px;
+}
+.owners .hasToolTip {
+  border-bottom: none;
+}
+.owners .hasToolTip .toolTipText {
+  right: 1px;
+}

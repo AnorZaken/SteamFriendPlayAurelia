@@ -1,0 +1,17 @@
+.userToggleList {
+  background-color: rgb(24, 24, 24);
+  display: flex;
+  flex-direction: column;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  list-style: none;
+  padding: 1px;
+  margin: 1px;
+}
+.userToggleList li {
+  background: rgb(24, 32, 48);
+  padding: 0;
+  margin: 5px;
+  color: white;
+  font-weight: bold;
+}

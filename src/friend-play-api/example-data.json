@@ -1,0 +1,7462 @@
+{
+  "steamUserId": 76561197990246657,
+  "userInfo": {
+    "name": "AnorZaken",
+    "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d1/d16977bfadd55bea22efe38fe9dc17ee8a1eac53_full.jpg",
+    "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d1/d16977bfadd55bea22efe38fe9dc17ee8a1eac53_medium.jpg",
+    "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d1/d16977bfadd55bea22efe38fe9dc17ee8a1eac53.jpg",
+    "profileUrl": "https://steamcommunity.com/id/owle/",
+    "isPublic": true
+  },
+  "friends": [
+    {
+      "success": true,
+      "id": 76561197967124001,
+      "value": {
+        "name": "Molly",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/08/086f21747102da773b7245621a6e24a8799254a6_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/08/086f21747102da773b7245621a6e24a8799254a6_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/08/086f21747102da773b7245621a6e24a8799254a6.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561197967124001/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197974429795,
+      "value": {
+        "name": "ZetFury",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9db849873eb1c14307558634a417b495fa0c01f7_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9db849873eb1c14307558634a417b495fa0c01f7_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9d/9db849873eb1c14307558634a417b495fa0c01f7.jpg",
+        "profileUrl": "https://steamcommunity.com/id/ZetFury/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198029401148,
+      "value": {
+        "name": "[a2m] heem",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef0b397bbb5a982dfffec4fcbcd04b59bcaebb5c_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef0b397bbb5a982dfffec4fcbcd04b59bcaebb5c_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ef/ef0b397bbb5a982dfffec4fcbcd04b59bcaebb5c.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198029401148/",
+        "isPublic": false
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198376766274,
+      "value": {
+        "name": "TomboyEnthusiast1488",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bf/bf83a8e7985274a789bb82ddb9ae16c56a56f45b_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bf/bf83a8e7985274a789bb82ddb9ae16c56a56f45b_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/bf/bf83a8e7985274a789bb82ddb9ae16c56a56f45b.jpg",
+        "profileUrl": "https://steamcommunity.com/id/WaifuConnoisseur/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198063667950,
+      "value": {
+        "name": "Aretch",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/59/5910c4797f95abb824f96c6eeecc02470d83db18_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/59/5910c4797f95abb824f96c6eeecc02470d83db18_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/59/5910c4797f95abb824f96c6eeecc02470d83db18.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198063667950/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198037925831,
+      "value": {
+        "name": "flinckocoastern",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1d/1dc5f15a8557f1e16cdd0de1db58550c2b7e600e_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1d/1dc5f15a8557f1e16cdd0de1db58550c2b7e600e_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1d/1dc5f15a8557f1e16cdd0de1db58550c2b7e600e.jpg",
+        "profileUrl": "https://steamcommunity.com/id/flinckocoastern/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198366309334,
+      "value": {
+        "name": "lovx3m",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fc/fccb20684cc0b22f142a1788eb8b71631bb9fb87_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fc/fccb20684cc0b22f142a1788eb8b71631bb9fb87_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fc/fccb20684cc0b22f142a1788eb8b71631bb9fb87.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198366309334/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198061311153,
+      "value": {
+        "name": "Bobby",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6f/6f4c5c6d4ea047895abc67a063df03b6ebc8b5fa_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6f/6f4c5c6d4ea047895abc67a063df03b6ebc8b5fa_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6f/6f4c5c6d4ea047895abc67a063df03b6ebc8b5fa.jpg",
+        "profileUrl": "https://steamcommunity.com/id/robbelibobbelibobban/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198301047744,
+      "value": {
+        "name": "LOTTI",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/673462ef514af7f83a2fee3a491a3e329cd90068_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/673462ef514af7f83a2fee3a491a3e329cd90068_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/67/673462ef514af7f83a2fee3a491a3e329cd90068.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198301047744/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197963226441,
+      "value": {
+        "name": "AngelJoda",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/65/652011efbda826bc9db4feffac7531fc52373819_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/65/652011efbda826bc9db4feffac7531fc52373819_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/65/652011efbda826bc9db4feffac7531fc52373819.jpg",
+        "profileUrl": "https://steamcommunity.com/id/angeljoda/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198069648796,
+      "value": {
+        "name": "CramedragaL",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28c1182de502f438d3bf8b56de98ec90529b472c_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28c1182de502f438d3bf8b56de98ec90529b472c_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28c1182de502f438d3bf8b56de98ec90529b472c.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198069648796/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197961196592,
+      "value": {
+        "name": "Noeye",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1d/1d0557a779564b6d7fee2b4a682f6729646698de_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1d/1d0557a779564b6d7fee2b4a682f6729646698de_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1d/1d0557a779564b6d7fee2b4a682f6729646698de.jpg",
+        "profileUrl": "https://steamcommunity.com/id/Noeye/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197976112250,
+      "value": {
+        "name": "Erik / Wilson",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ed/ed13c0f9645816af612fb0f1cceecfaacb7337e9_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ed/ed13c0f9645816af612fb0f1cceecfaacb7337e9_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ed/ed13c0f9645816af612fb0f1cceecfaacb7337e9.jpg",
+        "profileUrl": "https://steamcommunity.com/id/the_erik/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198311387915,
+      "value": {
+        "name": "Williams",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/13/13c31d1e19f13d3d47164ccf0a8236c5dd3bc88d_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/13/13c31d1e19f13d3d47164ccf0a8236c5dd3bc88d_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/13/13c31d1e19f13d3d47164ccf0a8236c5dd3bc88d.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198311387915/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197963611038,
+      "value": {
+        "name": "smurfmuppen",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e9/e91b45d0fb86e419d6cbb5d3cbe531d09a7ee1c3_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e9/e91b45d0fb86e419d6cbb5d3cbe531d09a7ee1c3_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/e9/e91b45d0fb86e419d6cbb5d3cbe531d09a7ee1c3.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561197963611038/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197985613183,
+      "value": {
+        "name": "Terasque",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/50/50e7890f6f7f449e74a0cb18be9a92e306dca30d_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/50/50e7890f6f7f449e74a0cb18be9a92e306dca30d_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/50/50e7890f6f7f449e74a0cb18be9a92e306dca30d.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561197985613183/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197985308858,
+      "value": {
+        "name": "tomplast",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fe/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561197985308858/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197992898710,
+      "value": {
+        "name": "Rok",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/96/96e685a24d3e9258459651e926cba15269916420_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/96/96e685a24d3e9258459651e926cba15269916420_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/96/96e685a24d3e9258459651e926cba15269916420.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561197992898710/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197976203421,
+      "value": {
+        "name": "Beardstorm",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b0/b01b89c11c5a4ed8e6498d6cf0f84ce1f96b0073_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b0/b01b89c11c5a4ed8e6498d6cf0f84ce1f96b0073_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b0/b01b89c11c5a4ed8e6498d6cf0f84ce1f96b0073.jpg",
+        "profileUrl": "https://steamcommunity.com/id/Beardstorm/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198034824243,
+      "value": {
+        "name": "FanHe",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/92/92c41fccb818a82fa33e16b64decef0c28bfa466_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/92/92c41fccb818a82fa33e16b64decef0c28bfa466_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/92/92c41fccb818a82fa33e16b64decef0c28bfa466.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198034824243/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198259233050,
+      "value": {
+        "name": "NeBi(Meepomeister)  | trade.tf",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c4/c4f99a3be81dd59f16a4ea1a1b109075be766b7d_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c4/c4f99a3be81dd59f16a4ea1a1b109075be766b7d_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c4/c4f99a3be81dd59f16a4ea1a1b109075be766b7d.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198259233050/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197965585671,
+      "value": {
+        "name": "Knarkoffer",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/16/167b0e58263c0a7b034d92d9c219d768d4a9781d_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/16/167b0e58263c0a7b034d92d9c219d768d4a9781d_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/16/167b0e58263c0a7b034d92d9c219d768d4a9781d.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561197965585671/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198021756806,
+      "value": {
+        "name": "In New Zealand for 8 months!",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/70/701751615ebc92dccfd242eff917e03d52fe6fce_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/70/701751615ebc92dccfd242eff917e03d52fe6fce_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/70/701751615ebc92dccfd242eff917e03d52fe6fce.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198021756806/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197992141408,
+      "value": {
+        "name": "Rouldubool",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7f/7f4962fc7840875782725161aadc9dea9ac08ab8_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7f/7f4962fc7840875782725161aadc9dea9ac08ab8_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/7f/7f4962fc7840875782725161aadc9dea9ac08ab8.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561197992141408/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561197982079913,
+      "value": {
+        "name": "mollters",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d8/d8c12460545206842defbd906bc7295880356681_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d8/d8c12460545206842defbd906bc7295880356681_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d8/d8c12460545206842defbd906bc7295880356681.jpg",
+        "profileUrl": "https://steamcommunity.com/id/mollters/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198147457786,
+      "value": {
+        "name": "tasty.sketches",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/01/01e85ea9ca1e1901be94a7caad3887b67b0920ba_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/01/01e85ea9ca1e1901be94a7caad3887b67b0920ba_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/01/01e85ea9ca1e1901be94a7caad3887b67b0920ba.jpg",
+        "profileUrl": "https://steamcommunity.com/id/systerdrake/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198156805314,
+      "value": {
+        "name": "EDDI CAYN",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/72/72adc52e82f2b51b7dcded64818411fe4b55ee02_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/72/72adc52e82f2b51b7dcded64818411fe4b55ee02_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/72/72adc52e82f2b51b7dcded64818411fe4b55ee02.jpg",
+        "profileUrl": "https://steamcommunity.com/id/eddie_cayne/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198023876317,
+      "value": {
+        "name": "Zaterion",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d4/d4de075e6b20ffeed7028b3d625413828ba3fbb8_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d4/d4de075e6b20ffeed7028b3d625413828ba3fbb8_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d4/d4de075e6b20ffeed7028b3d625413828ba3fbb8.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198023876317/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198008286123,
+      "value": {
+        "name": "Haekos",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/34/34991caeb7c12402e623dcad21f56728eec7ef7a_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/34/34991caeb7c12402e623dcad21f56728eec7ef7a_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/34/34991caeb7c12402e623dcad21f56728eec7ef7a.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198008286123/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198012288258,
+      "value": {
+        "name": "Rawrtajgur",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49536f2418795af46f846a1d4f9f8047dccab4e2_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49536f2418795af46f846a1d4f9f8047dccab4e2_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/49/49536f2418795af46f846a1d4f9f8047dccab4e2.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198012288258/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198102264659,
+      "value": {
+        "name": "carpaccinomoutarde",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/37/37041691ae2223f8d14cba0fd90f2bb0243ee33d_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/37/37041691ae2223f8d14cba0fd90f2bb0243ee33d_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/37/37041691ae2223f8d14cba0fd90f2bb0243ee33d.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198102264659/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198056736238,
+      "value": {
+        "name": "jelladelta",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ba/badc6dba24049ca0627db2a0ec5afd9438b4d0bd_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ba/badc6dba24049ca0627db2a0ec5afd9438b4d0bd_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ba/badc6dba24049ca0627db2a0ec5afd9438b4d0bd.jpg",
+        "profileUrl": "https://steamcommunity.com/id/jelladelta/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198006655235,
+      "value": {
+        "name": "Azteko",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d4/d47271b65f38f26694aad7aa2f6016af0765a4bf_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d4/d47271b65f38f26694aad7aa2f6016af0765a4bf_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/d4/d47271b65f38f26694aad7aa2f6016af0765a4bf.jpg",
+        "profileUrl": "https://steamcommunity.com/id/61191/",
+        "isPublic": true
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198049761911,
+      "value": {
+        "name": "米飯",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cc/cc17630c6e086962c726622e9f9c2d4167901ceb_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cc/cc17630c6e086962c726622e9f9c2d4167901ceb_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/cc/cc17630c6e086962c726622e9f9c2d4167901ceb.jpg",
+        "profileUrl": "https://steamcommunity.com/profiles/76561198049761911/",
+        "isPublic": false
+      }
+    },
+    {
+      "success": true,
+      "id": 76561198174916595,
+      "value": {
+        "name": "14CaratGoldDong",
+        "avatarFull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b7/b7533803ecc645c6e5733d9b0c3b288aae00bac7_full.jpg",
+        "avatarSmall": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b7/b7533803ecc645c6e5733d9b0c3b288aae00bac7_medium.jpg",
+        "avatarTiny": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b7/b7533803ecc645c6e5733d9b0c3b288aae00bac7.jpg",
+        "profileUrl": "https://steamcommunity.com/id/ImfuckinFRED/",
+        "isPublic": true
+      }
+    }
+  ],
+  "apps": [
+    {
+      "appId": 220,
+      "appName": "Half-Life 2",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198021756806,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 340,
+      "appName": "Half-Life 2: Lost Coast",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992141408,
+        76561197992898710,
+        76561198021756806,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 2100,
+      "appName": "Dark Messiah of Might & Magic Single Player",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 2130,
+      "appName": "Dark Messiah of Might & Magic Multi-Player",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 3910,
+      "appName": "Sid Meier's Civilization III: Complete",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 4000,
+      "appName": "Garry's Mod",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 2990,
+      "appName": "FlatOut 2",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250
+      ]
+    },
+    {
+      "appId": 6860,
+      "appName": "Hitman: Blood Money",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197976203421,
+        76561197985613183,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 320,
+      "appName": "Half-Life 2: Deathmatch",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992141408,
+        76561197992898710,
+        76561198021756806,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 8000,
+      "appName": "Tomb Raider: Anniversary",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 2310,
+      "appName": "Quake",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197974429795,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 7670,
+      "appName": "BioShock",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 409710,
+      "appName": "BioShock Remastered",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 4760,
+      "appName": "Rome: Total War",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 12140,
+      "appName": "Max Payne",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 12150,
+      "appName": "Max Payne 2: The Fall of Max Payne",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 12900,
+      "appName": "Audiosurf",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197974429795,
+        76561197976112250,
+        76561197982079913,
+        76561197985613183,
+        76561198012288258,
+        76561198021756806,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 15170,
+      "appName": "Heroes of Might & Magic V",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 12750,
+      "appName": "GRID",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 7650,
+      "appName": "X-COM: Terror from the Deep",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 7660,
+      "appName": "X-COM: Apocalypse",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 7730,
+      "appName": "X-COM: Interceptor",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 7760,
+      "appName": "X-COM: UFO Defense",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 7770,
+      "appName": "X-COM: Enforcer",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 15380,
+      "appName": "Heroes of Might & Magic V: Hammers of Fate",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 15370,
+      "appName": "Heroes of Might & Magic V: Tribes of the East",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 17460,
+      "appName": "Mass Effect",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197985613183,
+        76561197992141408,
+        76561198008286123,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 17410,
+      "appName": "Mirror's Edge",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197985308858,
+        76561197985613183,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 1250,
+      "appName": "Killing Floor",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258,
+        76561198021756806,
+        76561198037925831,
+        76561198063667950,
+        76561198069648796,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 35420,
+      "appName": "Killing Floor Mod: Defence Alliance 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258,
+        76561198021756806,
+        76561198037925831,
+        76561198063667950,
+        76561198069648796,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 23310,
+      "appName": "The Last Remnant",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 26800,
+      "appName": "Braid",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 6060,
+      "appName": "Star Wars: Battlefront 2 (Classic, 2005)",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 6000,
+      "appName": "STAR WARS™ Republic Commando",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 32350,
+      "appName": "STAR WARS™ Starfighter™",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 32390,
+      "appName": "STAR WARS™ Jedi Knight: Mysteries of the Sith™",
+      "userIds": [
+        76561197990246657,
+        76561197985613183,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 32400,
+      "appName": "STAR WARS™: Dark Forces",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 32380,
+      "appName": "STAR WARS™ Jedi Knight: Dark Forces II",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 6030,
+      "appName": "STAR WARS™ Jedi Knight II: Jedi Outcast™",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 6020,
+      "appName": "STAR WARS™ Jedi Knight: Jedi Academy™",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 40700,
+      "appName": "Machinarium",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 20900,
+      "appName": "The Witcher: Enhanced Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976203421,
+        76561197985613183,
+        76561198008286123,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 40400,
+      "appName": "AI War: Fleet Command",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 11450,
+      "appName": "Overlord",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 12810,
+      "appName": "Overlord II",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 550,
+      "appName": "Left 4 Dead 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197985613183,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198021756806,
+        76561198023876317,
+        76561198034824243,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 31170,
+      "appName": "Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 31180,
+      "appName": "Tales of Monkey Island: Chapter 2 - The Siege of Spinner Cay ",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 31190,
+      "appName": "Tales of Monkey Island: Chapter 3 - Lair of the Leviathan ",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 31200,
+      "appName": "Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood ",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 31210,
+      "appName": "Tales of Monkey Island: Chapter 5 - Rise of the Pirate God",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 32430,
+      "appName": "STAR WARS™: The Force Unleashed™ Ultimate Sith Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 22370,
+      "appName": "Fallout 3 - Game of the Year Edition",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197965585671,
+        76561197976112250,
+        76561197985308858,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 3730,
+      "appName": "Aliens versus Predator Classic 2000",
+      "userIds": [
+        76561197990246657,
+        76561197985613183,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 40100,
+      "appName": "Supreme Commander 2",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197976112250
+      ]
+    },
+    {
+      "appId": 24980,
+      "appName": "Mass Effect 2",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197976112250,
+        76561197985613183,
+        76561197992141408,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 38700,
+      "appName": "Toki Tori",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 34030,
+      "appName": "Total War: NAPOLEON - Definitive Edition",
+      "userIds": [
+        76561197990246657,
+        76561198023876317,
+        76561198034824243
+      ]
+    },
+    {
+      "appId": 43110,
+      "appName": "Metro 2033",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198012288258,
+        76561198021756806,
+        76561198037925831,
+        76561198069648796,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 6800,
+      "appName": "Commandos: Behind Enemy Lines",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 6810,
+      "appName": "Commandos: Beyond the Call of Duty",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 6830,
+      "appName": "Commandos 2: Men of Courage",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197985613183,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 6840,
+      "appName": "Commandos 3: Destination Berlin",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 400,
+      "appName": "Portal",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197965585671,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197992898710,
+        76561198012288258,
+        76561198021756806,
+        76561198023876317,
+        76561198034824243,
+        76561198037925831,
+        76561198056736238,
+        76561198174916595,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 3900,
+      "appName": "Sid Meier's Civilization IV",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 3990,
+      "appName": "Sid Meier's Civilization IV: Warlords",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 8800,
+      "appName": "Sid Meier's Civilization IV: Beyond the Sword",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 16810,
+      "appName": "Sid Meier's Civilization IV: Colonization",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 34440,
+      "appName": "Sid Meier's Civilization IV",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 34450,
+      "appName": "Sid Meier's Civilization IV: Warlords",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 34460,
+      "appName": "Sid Meier's Civilization IV: Beyond the Sword",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 32470,
+      "appName": "STAR WARS™ Empire at War: Gold Pack",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 33910,
+      "appName": "Arma 2",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317,
+        76561198034824243,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 33930,
+      "appName": "Arma 2: Operation Arrowhead",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317,
+        76561198034824243,
+        76561198061311153,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 219540,
+      "appName": "Arma 2: Operation Arrowhead Beta (Obsolete)",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317,
+        76561198034824243,
+        76561198061311153,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 6120,
+      "appName": "Shank",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 39800,
+      "appName": "Nation Red",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197982079913,
+        76561197985613183,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 70300,
+      "appName": "VVVVVV",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197976203421,
+        76561197985308858,
+        76561197992898710,
+        76561198012288258,
+        76561198102264659,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 3170,
+      "appName": "King's Bounty: Armored Princess",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 25900,
+      "appName": "King's Bounty: The Legend",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 63910,
+      "appName": "King's Bounty: Crossworlds",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 35130,
+      "appName": "Lara Croft and the Guardian of Light",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 32360,
+      "appName": "The Secret of Monkey Island: Special Edition",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 32460,
+      "appName": "Monkey Island 2: Special Edition",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 32500,
+      "appName": "STAR WARS™: The Force Unleashed™ II",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 47810,
+      "appName": "Dragon Age: Origins - Ultimate Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197967124001,
+        76561197985613183,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 47870,
+      "appName": "Need for Speed: Hot Pursuit",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 31290,
+      "appName": "Back to the Future: Ep 1 - It's About Time",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 94500,
+      "appName": "Back to the Future: Ep 2 - Get Tannen!",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 94510,
+      "appName": "Back to the Future: Ep 3 - Citizen Brown",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 94520,
+      "appName": "Back to the Future: Ep 4 - Double Visions",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 94530,
+      "appName": "Back to the Future: Ep 5 - OUTATIME",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 4540,
+      "appName": "Titan Quest",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197992898710,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 475150,
+      "appName": "Titan Quest Anniversary Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197992898710,
+        76561198023876317,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 50300,
+      "appName": "Spec Ops: The Line",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198034824243,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 21100,
+      "appName": "F.E.A.R. 3",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197982079913,
+        76561197985613183,
+        76561198012288258,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 34330,
+      "appName": "Total War: SHOGUN 2",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197992898710,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 48190,
+      "appName": "Assassin's Creed Brotherhood",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 8930,
+      "appName": "Sid Meier's Civilization V",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197982079913,
+        76561197985308858,
+        76561197985613183,
+        76561198008286123,
+        76561198012288258,
+        76561198023876317,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 95300,
+      "appName": "Capsized",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421
+      ]
+    },
+    {
+      "appId": 620,
+      "appName": "Portal 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198021756806,
+        76561198056736238,
+        76561198174916595,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 91200,
+      "appName": "Anomaly Warzone Earth",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 105600,
+      "appName": "Terraria",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197965585671,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561198008286123,
+        76561198012288258,
+        76561198023876317,
+        76561198037925831,
+        76561198056736238,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 20920,
+      "appName": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197985613183,
+        76561198008286123,
+        76561198056736238,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 46500,
+      "appName": "Syberia",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795
+      ]
+    },
+    {
+      "appId": 22000,
+      "appName": "World of Goo",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 21090,
+      "appName": "F.E.A.R.",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 21110,
+      "appName": "F.E.A.R.: Extraction Point",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 21120,
+      "appName": "F.E.A.R.: Perseus Mandate",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 16450,
+      "appName": "F.E.A.R. 2: Project Origin",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 8980,
+      "appName": "Borderlands GOTY",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197992141408,
+        76561198012288258,
+        76561198021756806
+      ]
+    },
+    {
+      "appId": 729040,
+      "appName": "Borderlands GOTY Enhanced",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197992141408,
+        76561198012288258,
+        76561198021756806
+      ]
+    },
+    {
+      "appId": 107300,
+      "appName": "Breath of Death VII ",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 107310,
+      "appName": "Cthulhu Saves the World ",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 28050,
+      "appName": "Deus Ex: Human Revolution",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198023876317,
+        76561198037925831,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 55150,
+      "appName": "Warhammer 40,000: Space Marine",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197992898710,
+        76561198006655235
+      ]
+    },
+    {
+      "appId": 33460,
+      "appName": "From Dust",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197985613183,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 32800,
+      "appName": "The Lord of the Rings: War in the North",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561198012288258,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 112100,
+      "appName": "Avadon: The Black Fortress",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 9200,
+      "appName": "RAGE",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250,
+        76561197985308858
+      ]
+    },
+    {
+      "appId": 17710,
+      "appName": "Nuclear Dawn",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 57690,
+      "appName": "Tropico 4",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198012288258,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 70600,
+      "appName": "Worms Ultimate Mayhem",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250
+      ]
+    },
+    {
+      "appId": 24240,
+      "appName": "PAYDAY: The Heist",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197974429795,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198021756806,
+        76561198023876317,
+        76561198034824243
+      ]
+    },
+    {
+      "appId": 102840,
+      "appName": "Shank 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 72850,
+      "appName": "The Elder Scrolls V: Skyrim",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198021756806,
+        76561198023876317,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 55230,
+      "appName": "Saints Row: The Third",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197976112250,
+        76561197982079913,
+        76561197992898710,
+        76561198063667950,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 80310,
+      "appName": "Gemini Rue",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 201760,
+      "appName": "Cities XL 2012",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 65800,
+      "appName": "Dungeon Defenders",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 70620,
+      "appName": "Worms Crazy Golf",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 201280,
+      "appName": "Deus Ex: Human Revolution - The Missing Link",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197992898710,
+        76561198023876317,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 70660,
+      "appName": "Worms Pinball",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 70650,
+      "appName": "Worms Blast",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 24010,
+      "appName": "Train Simulator",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197965585671,
+        76561197974429795,
+        76561197985613183,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 200960,
+      "appName": "Geneforge 1",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 200980,
+      "appName": "Geneforge 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 200990,
+      "appName": "Geneforge 3",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 201000,
+      "appName": "Geneforge 4",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 201010,
+      "appName": "Geneforge 5",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 201290,
+      "appName": "Sins of a Solar Empire: Trinity",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038
+      ]
+    },
+    {
+      "appId": 41070,
+      "appName": "Serious Sam 3: BFE",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197967124001,
+        76561197976112250,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 564310,
+      "appName": "Serious Sam Fusion 2017 (beta)",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197967124001,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 200900,
+      "appName": "Cave Story+",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 41050,
+      "appName": "Serious Sam Classic: The First Encounter",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 41060,
+      "appName": "Serious Sam Classic: The Second Encounter",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 227780,
+      "appName": "Serious Sam Classics: Revolution",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 202200,
+      "appName": "Galactic Civilizations II: Ultimate Edition",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197992898710,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 6100,
+      "appName": "Eets",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 4700,
+      "appName": "Total War: MEDIEVAL II - Definitive Edition",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 203810,
+      "appName": "Dear Esther",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197976203421
+      ]
+    },
+    {
+      "appId": 520720,
+      "appName": "Dear Esther: Landmark Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197976203421,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 205790,
+      "appName": "Dota 2 Test",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197985613183,
+        76561197992898710,
+        76561198006655235,
+        76561198012288258,
+        76561198023876317,
+        76561198034824243,
+        76561198037925831,
+        76561198056736238,
+        76561198063667950,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 67370,
+      "appName": "The Darkness II",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561197992898710,
+        76561198037925831,
+        76561198102264659,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 204340,
+      "appName": "Serious Sam 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 22380,
+      "appName": "Fallout: New Vegas",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197985308858,
+        76561197992898710,
+        76561198023876317,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 207250,
+      "appName": "Cubemen",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 102600,
+      "appName": "Orcs Must Die!",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 208580,
+      "appName": "STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561197992898710,
+        76561198008286123,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 209370,
+      "appName": "Analogue: A Hate Story",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 108710,
+      "appName": "Alan Wake",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197976112250,
+        76561197992898710,
+        76561198012288258,
+        76561198021756806,
+        76561198037925831,
+        76561198056736238,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 29180,
+      "appName": "Osmos",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 15560,
+      "appName": "AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 204880,
+      "appName": "Sins of a Solar Empire: Rebellion",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197974429795,
+        76561197992898710,
+        76561198069648796,
+        76561198102264659,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 208670,
+      "appName": "Blades of Time",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 208400,
+      "appName": "Avernum: Escape From the Pit",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 104900,
+      "appName": "ORION: Prelude",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197974429795,
+        76561198008286123,
+        76561198021756806,
+        76561198023876317,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 206020,
+      "appName": "Avernum 4",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 206040,
+      "appName": "Avernum 5",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 206060,
+      "appName": "Avernum 6",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 32370,
+      "appName": "STAR WARS™: Knights of the Old Republic™",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561197992898710,
+        76561198008286123,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 200260,
+      "appName": "Batman: Arkham City GOTY",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561197985613183,
+        76561198012288258,
+        76561198023876317,
+        76561198056736238,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 6980,
+      "appName": "Thief: Deadly Shadows",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 202750,
+      "appName": "Alan Wake's American Nightmare",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 3830,
+      "appName": "Psychonauts",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 48000,
+      "appName": "LIMBO",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197974429795,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 57300,
+      "appName": "Amnesia: The Dark Descent",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258,
+        76561198037925831,
+        76561198056736238,
+        76561198063667950,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 204060,
+      "appName": "Superbrothers: Sword & Sworcery EP",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197967124001,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 107100,
+      "appName": "Bastion",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 40800,
+      "appName": "Super Meat Boy",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198021756806,
+        76561198063667950,
+        76561198102264659,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 209830,
+      "appName": "Lone Survivor: The Director's Cut",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 210170,
+      "appName": "Spirits",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197982079913,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 38740,
+      "appName": "EDGE",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 63710,
+      "appName": "BIT.TRIP RUNNER",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 111800,
+      "appName": "Blocks That Matter",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 203730,
+      "appName": "Q.U.B.E.",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197974429795,
+        76561198012288258,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 239430,
+      "appName": "Q.U.B.E: Director's Cut",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197974429795,
+        76561198012288258,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 205910,
+      "appName": "Tiny and Big: Grandpa's Leftovers",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250
+      ]
+    },
+    {
+      "appId": 215280,
+      "appName": "Secret World Legends",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 206440,
+      "appName": "To the Moon",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858
+      ]
+    },
+    {
+      "appId": 214340,
+      "appName": "Deponia",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 113200,
+      "appName": "The Binding of Isaac",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198021756806,
+        76561198069648796,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 98400,
+      "appName": "Hard Reset",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197967124001,
+        76561197976203421,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 211420,
+      "appName": "DARK SOULS™: Prepare To Die Edition",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198021756806,
+        76561198034824243
+      ]
+    },
+    {
+      "appId": 35140,
+      "appName": "Batman: Arkham Asylum GOTY Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561198008286123,
+        76561198012288258,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 17300,
+      "appName": "Crysis",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421
+      ]
+    },
+    {
+      "appId": 17330,
+      "appName": "Crysis Warhead",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421
+      ]
+    },
+    {
+      "appId": 17340,
+      "appName": "Crysis Wars",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421
+      ]
+    },
+    {
+      "appId": 108800,
+      "appName": "Crysis 2 Maximum Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985308858
+      ]
+    },
+    {
+      "appId": 20500,
+      "appName": "Red Faction: Guerrilla Steam Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 55110,
+      "appName": "Red Faction: Armageddon",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 667720,
+      "appName": "Red Faction Guerrilla Re-Mars-tered",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 204300,
+      "appName": "Awesomenauts",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561198008286123,
+        76561198012288258,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 217200,
+      "appName": "Worms Armageddon",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197985613183,
+        76561198008286123,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 207650,
+      "appName": "A Virus Named TOM",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 98800,
+      "appName": "Dungeons of Dredmor",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 214150,
+      "appName": "Galactic Civilizations I: Ultimate Edition",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 209080,
+      "appName": "Guns of Icarus Online",
+      "userIds": [
+        76561197990246657,
+        76561198012288258,
+        76561198034824243,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 730,
+      "appName": "Counter-Strike: Global Offensive",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197985613183,
+        76561197992141408,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198021756806,
+        76561198023876317,
+        76561198034824243,
+        76561198061311153,
+        76561198069648796,
+        76561198102264659,
+        76561198156805314,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 215510,
+      "appName": "Rocketbirds: Hardboiled Chicken",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561198008286123,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 20820,
+      "appName": "Shatter",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 41500,
+      "appName": "Torchlight",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 107200,
+      "appName": "Space Pirates and Zombies",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 107800,
+      "appName": "Rochard",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 108500,
+      "appName": "Vessel",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 65300,
+      "appName": "Dustforce",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 41800,
+      "appName": "Gratuitous Space Battles",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 94200,
+      "appName": "Jamestown",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 207420,
+      "appName": "Wizorb",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 35700,
+      "appName": "Trine",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561198008286123,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 35720,
+      "appName": "Trine 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561198008286123,
+        76561198012288258,
+        76561198056736238,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 220200,
+      "appName": "Kerbal Space Program",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197967124001,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 220780,
+      "appName": "Thomas Was Alone",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 35460,
+      "appName": "The Ball",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421,
+        76561197992898710,
+        76561198021756806
+      ]
+    },
+    {
+      "appId": 204360,
+      "appName": "Castle Crashers",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250,
+        76561197985308858,
+        76561198008286123,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 49520,
+      "appName": "Borderlands 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197982079913,
+        76561197992141408,
+        76561198008286123,
+        76561198012288258,
+        76561198021756806,
+        76561198023876317,
+        76561198069648796,
+        76561198102264659,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 221260,
+      "appName": "Little Inferno",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 217690,
+      "appName": "Anna - Extended Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 200710,
+      "appName": "Torchlight II",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197974429795,
+        76561197976112250,
+        76561197982079913,
+        76561198008286123,
+        76561198012288258,
+        76561198037925831,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 220860,
+      "appName": "McPixel",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 91600,
+      "appName": "Sanctum",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 218020,
+      "appName": "Nethergate: Resurrection",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 205100,
+      "appName": "Dishonored",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197976112250,
+        76561198008286123,
+        76561198023876317,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 200510,
+      "appName": "XCOM: Enemy Unknown",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198023876317,
+        76561198037925831,
+        76561198102264659,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 211160,
+      "appName": "Viking: Battle for Asgard",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 39630,
+      "appName": "AquaNox",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 39640,
+      "appName": "AquaNox 2: Revelation",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 208200,
+      "appName": "DOOM 3: BFG Edition",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198021756806
+      ]
+    },
+    {
+      "appId": 218680,
+      "appName": "Scribblenauts Unlimited",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198012288258,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 219150,
+      "appName": "Hotline Miami",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198102264659,
+        76561198174916595,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 218410,
+      "appName": "Defender's Quest: Valley of the Forgotten",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 219780,
+      "appName": "Divinity II: Developer's Cut",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 4920,
+      "appName": "Natural Selection 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198021756806,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 220240,
+      "appName": "Far Cry® 3",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 224960,
+      "appName": "Tomb Raider I",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561198034824243
+      ]
+    },
+    {
+      "appId": 225300,
+      "appName": "Tomb Raider II",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561198034824243,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 225320,
+      "appName": "Tomb Raider III: Adventures of Lara Croft",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561198034824243,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 61600,
+      "appName": "Zen Bound® 2",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 203140,
+      "appName": "Hitman: Absolution",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 205930,
+      "appName": "Hitman: Sniper Challenge",
+      "userIds": [
+        76561197990246657,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 4560,
+      "appName": "Company of Heroes - Legacy Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197992898710,
+        76561198056736238,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 9340,
+      "appName": "Company of Heroes: Opposing Fronts",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197992898710,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 20540,
+      "appName": "Company of Heroes: Tales of Valor",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197992898710,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 50620,
+      "appName": "Darksiders",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198021756806,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 228200,
+      "appName": "Company of Heroes ",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198056736238,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 462780,
+      "appName": "Darksiders Warmastered Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198021756806,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 16700,
+      "appName": "Stronghold Crusader Extreme HD",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 40970,
+      "appName": "Stronghold Crusader HD",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 209190,
+      "appName": "Stealth Bastard Deluxe",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 221640,
+      "appName": "Super Hexagon",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561198023876317,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 201790,
+      "appName": "Orcs Must Die! 2",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258,
+        76561198063667950,
+        76561198069648796,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 4570,
+      "appName": "Warhammer 40,000: Dawn of War - Game of the Year Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197992141408,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 227200,
+      "appName": "Waking Mars",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 220700,
+      "appName": "RPG Maker VX Ace",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 228280,
+      "appName": "Baldur's Gate: Enhanced Edition",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198008286123,
+        76561198023876317,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 368730,
+      "appName": "No Time To Explain Remastered",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561198037925831,
+        76561198102264659,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 219890,
+      "appName": "Antichamber",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197985613183,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 218130,
+      "appName": "Dungeonland",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 230410,
+      "appName": "Warframe",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197992141408,
+        76561197992898710,
+        76561198021756806,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659,
+        76561198147457786,
+        76561198301047744,
+        76561198366309334,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 238960,
+      "appName": "Path of Exile",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197965585671,
+        76561197967124001,
+        76561197976112250,
+        76561197976203421,
+        76561197985308858,
+        76561197992141408,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317,
+        76561198037925831,
+        76561198056736238,
+        76561198069648796,
+        76561198259233050,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 202090,
+      "appName": "Magicka: Wizard Wars",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197982079913,
+        76561198012288258,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 225260,
+      "appName": "Brütal Legend",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 228760,
+      "appName": "TrackMania² Canyon",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197985613183,
+        76561198037925831,
+        76561198147457786
+      ]
+    },
+    {
+      "appId": 226740,
+      "appName": "Monster Loves You!",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 203770,
+      "appName": "Crusader Kings II",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 225140,
+      "appName": "Duke Nukem 3D: Megaton Edition",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250
+      ]
+    },
+    {
+      "appId": 203160,
+      "appName": "Tomb Raider",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198012288258,
+        76561198021756806,
+        76561198023876317,
+        76561198056736238,
+        76561198102264659,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 228440,
+      "appName": "Cubemen 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 220900,
+      "appName": "Jack Lumber",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 210770,
+      "appName": "Sanctum 2",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197976112250,
+        76561197982079913,
+        76561198012288258,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 113020,
+      "appName": "Monaco",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197992898710,
+        76561198037925831,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 224760,
+      "appName": "FEZ",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976203421,
+        76561197982079913,
+        76561198008286123,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 234650,
+      "appName": "Shadowrun Returns",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 65930,
+      "appName": "The Bureau: XCOM Declassified",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 238210,
+      "appName": "System Shock 2",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 231430,
+      "appName": "Company of Heroes 2",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197985613183,
+        76561197992898710,
+        76561198063667950,
+        76561198069648796,
+        76561198102264659,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 35450,
+      "appName": "Rising Storm/Red Orchestra 2 Multiplayer",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197982079913,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 230190,
+      "appName": "War for the Overworld",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197967124001,
+        76561197976112250,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 57640,
+      "appName": "Broken Sword 1 - Shadow of the Templars: Director's Cut",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561197985308858
+      ]
+    },
+    {
+      "appId": 236090,
+      "appName": "Dust: An Elysian Tail",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198037925831,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 206190,
+      "appName": "Gunpoint",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 219740,
+      "appName": "Don't Starve",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198008286123,
+        76561198037925831,
+        76561198056736238,
+        76561198069648796,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 322330,
+      "appName": "Don't Starve Together",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250,
+        76561197992141408,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198037925831,
+        76561198056736238,
+        76561198069648796,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 242880,
+      "appName": "Sir, You Are Being Hunted",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 242920,
+      "appName": "Banished",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197985308858,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 243160,
+      "appName": "Mushroom 11",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 243200,
+      "appName": "Memoria",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 241600,
+      "appName": "Rogue Legacy",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 208140,
+      "appName": "Endless Space",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 244850,
+      "appName": "Space Engineers",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 225160,
+      "appName": "Shadow Warrior Classic Redux",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197974429795
+      ]
+    },
+    {
+      "appId": 241320,
+      "appName": "Ittle Dew",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 91310,
+      "appName": "Dead Island",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197974429795,
+        76561197976112250,
+        76561198023876317,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 216250,
+      "appName": "Dead Island Riptide",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 234390,
+      "appName": "Teleglitch: Die More Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 214770,
+      "appName": "Guacamelee! Gold Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710,
+        76561198008286123,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 239030,
+      "appName": "Papers, Please",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197982079913,
+        76561198008286123,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 239070,
+      "appName": "Hammerwatch",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561197976203421,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 248610,
+      "appName": "Door Kickers",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198034824243,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 248820,
+      "appName": "Risk of Rain",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 239350,
+      "appName": "Spelunky",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561198008286123,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 222940,
+      "appName": "THE KING OF FIGHTERS XIII STEAM EDITION",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198023876317,
+        76561198063667950,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 218620,
+      "appName": "PAYDAY 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198021756806,
+        76561198023876317,
+        76561198034824243,
+        76561198037925831,
+        76561198063667950,
+        76561198069648796,
+        76561198102264659,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 2810,
+      "appName": "X3: Reunion",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985308858
+      ]
+    },
+    {
+      "appId": 2820,
+      "appName": "X3: Terran Conflict",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985308858
+      ]
+    },
+    {
+      "appId": 201310,
+      "appName": "X3: Albion Prelude",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985308858
+      ]
+    },
+    {
+      "appId": 235600,
+      "appName": "Tom Clancy's Splinter Cell Blacklist",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 239820,
+      "appName": "Game Dev Tycoon",
+      "userIds": [
+        76561197990246657,
+        76561197985613183,
+        76561198061311153
+      ]
+    },
+    {
+      "appId": 238320,
+      "appName": "Outlast",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561198021756806
+      ]
+    },
+    {
+      "appId": 239200,
+      "appName": "Amnesia: A Machine for Pigs",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198012288258,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 250620,
+      "appName": "Among the Sleep",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 250760,
+      "appName": "Shovel Knight: Treasure Trove",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 251060,
+      "appName": "Wargame: Red Dragon",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197985613183,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 251130,
+      "appName": "Chroma Squad",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 251570,
+      "appName": "7 Days to Die",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 251730,
+      "appName": "Legend of Grimrock 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 251870,
+      "appName": "Go! Go! Nippon! ~My First Trip to Japan~",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 251990,
+      "appName": "Long Live The Queen",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 252670,
+      "appName": "Nihilumbra",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421
+      ]
+    },
+    {
+      "appId": 252850,
+      "appName": "Streamline",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198012288258,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 253030,
+      "appName": "Race The Sun",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 249990,
+      "appName": "FORCED",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561198037925831,
+        76561198056736238,
+        76561198366309334
+      ]
+    },
+    {
+      "appId": 214950,
+      "appName": "Total War: ROME II - Emperor Edition",
+      "userIds": [
+        76561197990246657,
+        76561198023876317,
+        76561198034824243,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 234000,
+      "appName": "Superfrog HD",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 219990,
+      "appName": "Grim Dawn",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197976112250,
+        76561197982079913,
+        76561198008286123,
+        76561198023876317,
+        76561198061311153,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 233130,
+      "appName": "Shadow Warrior",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198021756806,
+        76561198037925831,
+        76561198063667950,
+        76561198102264659,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 255520,
+      "appName": "Viscera Cleanup Detail: Shadow Warrior",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198021756806,
+        76561198037925831,
+        76561198063667950,
+        76561198102264659,
+        76561198174916595,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 249330,
+      "appName": "Unholy Heights",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 257350,
+      "appName": "Baldur's Gate II: Enhanced Edition",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 9350,
+      "appName": "Supreme Commander",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 9420,
+      "appName": "Supreme Commander: Forged Alliance",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197992141408,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 39650,
+      "appName": "The Guild II",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197976112250
+      ]
+    },
+    {
+      "appId": 39690,
+      "appName": "ArcaniA",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197976112250
+      ]
+    },
+    {
+      "appId": 50650,
+      "appName": "Darksiders II",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561198056736238,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 950670,
+      "appName": "Gothic Playable Teaser",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 257850,
+      "appName": "Hyper Light Drifter",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197982079913,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 247000,
+      "appName": "Talisman: Digital Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 42910,
+      "appName": "Magicka",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197967124001,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198034824243,
+        76561198037925831,
+        76561198056736238,
+        76561198063667950,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 238010,
+      "appName": "Deus Ex: Human Revolution - Director's Cut",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197992141408,
+        76561198056736238,
+        76561198102264659,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 221910,
+      "appName": "The Stanley Parable",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198037925831,
+        76561198102264659,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 238430,
+      "appName": "Contagion",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 261570,
+      "appName": "Ori and the Blind Forest",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976203421,
+        76561198008286123,
+        76561198023876317,
+        76561198037925831,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 262280,
+      "appName": "Dungeons 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561197992141408
+      ]
+    },
+    {
+      "appId": 221380,
+      "appName": "Age of Empires II (2013)",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197992141408,
+        76561198023876317,
+        76561198034824243,
+        76561198037925831,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 264710,
+      "appName": "Subnautica",
+      "userIds": [
+        76561197990246657,
+        76561197985308858,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 44350,
+      "appName": "GRID 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197985613183,
+        76561197992898710,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 227300,
+      "appName": "Euro Truck Simulator 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 215530,
+      "appName": "The Incredible Adventures of Van Helsing",
+      "userIds": [
+        76561197990246657,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 266110,
+      "appName": "Tower of Guns",
+      "userIds": [
+        76561197990246657,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 266210,
+      "appName": "One Way Heroics",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 221100,
+      "appName": "DayZ",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197974429795,
+        76561198012288258,
+        76561198061311153
+      ]
+    },
+    {
+      "appId": 230230,
+      "appName": "Divinity: Original Sin (Classic)",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197967124001,
+        76561198008286123,
+        76561198021756806,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 373420,
+      "appName": "Divinity: Original Sin Enhanced Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197967124001,
+        76561198008286123,
+        76561198021756806,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 211820,
+      "appName": "Starbound",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561198012288258,
+        76561198037925831,
+        76561198056736238,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 367540,
+      "appName": "Starbound - Unstable",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985613183,
+        76561198012288258,
+        76561198037925831,
+        76561198056736238,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 249050,
+      "appName": "Dungeon of the Endless",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197976203421,
+        76561198012288258,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 25000,
+      "appName": "Overgrowth",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 234190,
+      "appName": "Receiver",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 268870,
+      "appName": "Satellite Reign",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 269250,
+      "appName": "WORLD END ECONOMiCA episode.01",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 269710,
+      "appName": "Tumblestone",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 270150,
+      "appName": "RUNNING WITH RIFLES",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 270770,
+      "appName": "Etherlords",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 270790,
+      "appName": "Etherlords II",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 4500,
+      "appName": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 41700,
+      "appName": "S.T.A.L.K.E.R.: Call of Pripyat",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 244870,
+      "appName": "Electronic Super Joy",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 271820,
+      "appName": "Card City Nights",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 232790,
+      "appName": "Broken Age",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 274310,
+      "appName": "Always Sometimes Monsters",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 222880,
+      "appName": "Insurgency",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197974429795,
+        76561197976112250,
+        76561198008286123,
+        76561198012288258,
+        76561198037925831,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 275390,
+      "appName": "Guacamelee! Super Turbo Championship Edition",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198102264659,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 226840,
+      "appName": "Age of Wonders III",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992141408,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 275570,
+      "appName": "Summoner",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 225840,
+      "appName": "Sven Co-op",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198021756806,
+        76561198259233050,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 278360,
+      "appName": "A Story About My Uncle",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197992898710,
+        76561198008286123,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 48700,
+      "appName": "Mount & Blade: Warband",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561197982079913,
+        76561197985613183,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 48720,
+      "appName": "Mount & Blade: With Fire and Sword",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197992898710,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 239160,
+      "appName": "Thief",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 279990,
+      "appName": "Bridge Constructor Playground",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 235210,
+      "appName": "Strider",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 246620,
+      "appName": "Plague Inc: Evolved",
+      "userIds": [
+        76561197990246657,
+        76561197967124001,
+        76561197985613183,
+        76561198021756806,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 270450,
+      "appName": "Robot Roller-Derby Disco Dodgeball",
+      "userIds": [
+        76561197990246657,
+        76561198012288258,
+        76561198023876317,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 285840,
+      "appName": "Enemy Mind",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 286260,
+      "appName": "fault - milestone one",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 287700,
+      "appName": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976203421,
+        76561198063667950,
+        76561198069648796,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 287980,
+      "appName": "Mini Metro",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197982079913,
+        76561198008286123,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 8870,
+      "appName": "BioShock Infinite",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197965585671,
+        76561197976112250,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 233290,
+      "appName": "MURDERED: SOUL SUSPECT™",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 274190,
+      "appName": "Broforce",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561198023876317,
+        76561198037925831,
+        76561198063667950,
+        76561198069648796,
+        76561198102264659,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 292500,
+      "appName": "Kero Blaster",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 292930,
+      "appName": "Black Mirror I",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 293260,
+      "appName": "Card Hunter",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 293780,
+      "appName": "Crawl",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 226860,
+      "appName": "Galactic Civilizations III",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197967124001,
+        76561197992898710,
+        76561198023876317,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 201810,
+      "appName": "Wolfenstein: The New Order",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250
+      ]
+    },
+    {
+      "appId": 256290,
+      "appName": "Child of Light",
+      "userIds": [
+        76561197990246657,
+        76561197967124001,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 294860,
+      "appName": "Valkyria Chronicles™",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561198008286123,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 286160,
+      "appName": "Tabletop Simulator",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421,
+        76561198012288258,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 222900,
+      "appName": "Dead Island: Epidemic",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561198056736238,
+        76561198061311153
+      ]
+    },
+    {
+      "appId": 297000,
+      "appName": "Heroes of Might & Magic III - HD Edition",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197967124001
+      ]
+    },
+    {
+      "appId": 238460,
+      "appName": "BattleBlock Theater",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 237930,
+      "appName": "Transistor",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561198008286123,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 300550,
+      "appName": "Shadowrun: Dragonfall - Director's Cut",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198008286123,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 301640,
+      "appName": "Zombie Army Trilogy",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 244160,
+      "appName": "Homeworld Remastered Collection",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 238090,
+      "appName": "Sniper Elite 3",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197985613183,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 58610,
+      "appName": "Wargame: European Escalation",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 222750,
+      "appName": "Wargame: AirLand Battle",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 250400,
+      "appName": "How to Survive",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197974429795,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 308060,
+      "appName": "Black The Fall",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 310080,
+      "appName": "Hatoful Boyfriend",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 310560,
+      "appName": "DiRT Rally",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197982079913,
+        76561197992898710,
+        76561198102264659,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 240760,
+      "appName": "Wasteland 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 404730,
+      "appName": "Wasteland 2: Director's Cut",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 237850,
+      "appName": "Dreamfall Chapters",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 311340,
+      "appName": "METAL GEAR SOLID V: GROUND ZEROES",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198056736238,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 312990,
+      "appName": "The Expendabros",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 255420,
+      "appName": "Magic 2015",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 247080,
+      "appName": "Crypt of the NecroDancer",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561198069648796,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 259680,
+      "appName": "Tales of Maj'Eyal",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 288470,
+      "appName": "Fable Anniversary",
+      "userIds": [
+        76561197990246657,
+        76561197967124001,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 215080,
+      "appName": "WAKFU",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561198023876317,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 316790,
+      "appName": "Grim Fandango Remastered",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197967124001,
+        76561197974429795,
+        76561197992898710,
+        76561198008286123,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 317620,
+      "appName": "Space Hulk Ascension",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038
+      ]
+    },
+    {
+      "appId": 318600,
+      "appName": "The Flame in the Flood",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 243970,
+      "appName": "Invisible, Inc.",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198008286123,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 65980,
+      "appName": "Sid Meier's Civilization: Beyond Earth",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038
+      ]
+    },
+    {
+      "appId": 319510,
+      "appName": "Five Nights at Freddy's",
+      "userIds": [
+        76561197990246657,
+        76561198012288258,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 320400,
+      "appName": "Magnifico",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 321040,
+      "appName": "DiRT 3 Complete Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197976203421,
+        76561197985613183,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 214490,
+      "appName": "Alien: Isolation",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 322190,
+      "appName": "SteamWorld Heist",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198008286123,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 233610,
+      "appName": "Distance",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 322500,
+      "appName": "SUPERHOT",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 241260,
+      "appName": "Sherlock Holmes: Crimes and Punishments",
+      "userIds": [
+        76561197990246657,
+        76561197985613183,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 242640,
+      "appName": "Styx: Master of Shadows",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 302510,
+      "appName": "Ryse: Son of Rome",
+      "userIds": [
+        76561197990246657,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 301970,
+      "appName": "Screencheat",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 241930,
+      "appName": "Middle-earth™: Shadow of Mordor™",
+      "userIds": [
+        76561197990246657,
+        76561197967124001,
+        76561197974429795,
+        76561197992141408,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 239140,
+      "appName": "Dying Light",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197992898710,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 307690,
+      "appName": "Sleeping Dogs: Definitive Edition",
+      "userIds": [
+        76561197990246657,
+        76561197985613183,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 305050,
+      "appName": "Outland",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 328760,
+      "appName": "SanctuaryRPG: Black Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 289130,
+      "appName": "Endless Legend",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 15700,
+      "appName": "Oddworld: Abe's Oddysee",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 330820,
+      "appName": "2064: Read Only Memories",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 17570,
+      "appName": "Pirates, Vikings, & Knights II",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197992898710,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 332500,
+      "appName": "GRAV",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 49600,
+      "appName": "Beat Hazard",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197982079913,
+        76561197992898710,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 235620,
+      "appName": "Small World 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197982079913,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 335300,
+      "appName": "DARK SOULS™ II: Scholar of the First Sin",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561198021756806,
+        76561198034824243,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 265930,
+      "appName": "Goat Simulator",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197976112250,
+        76561198008286123,
+        76561198021756806,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 257510,
+      "appName": "The Talos Principle",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976203421,
+        76561197985308858,
+        76561198008286123,
+        76561198063667950,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 108200,
+      "appName": "Ticket to Ride",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561198023876317,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 2400,
+      "appName": "The Ship",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 2420,
+      "appName": "The Ship Single Player",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 2430,
+      "appName": "The Ship Tutorial",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 319630,
+      "appName": "Life is Strange™",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 304650,
+      "appName": "Sunless Sea",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 242680,
+      "appName": "Nuclear Throne",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 340000,
+      "appName": "Headlander",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 341800,
+      "appName": "Keep Talking and Nobody Explodes",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976203421,
+        76561197985613183,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 314660,
+      "appName": "Oddworld: New 'n' Tasty",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198008286123,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 342380,
+      "appName": "Sakura Angels",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 345820,
+      "appName": "Shantae and the Pirate's Curse",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 262060,
+      "appName": "Darkest Dungeon®",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197992141408,
+        76561197992898710,
+        76561198008286123,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 266510,
+      "appName": "Hand of Fate",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 298630,
+      "appName": "The Escapists",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198008286123,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 21690,
+      "appName": "Resident Evil 5 / Biohazard 5",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198102264659,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 354240,
+      "appName": "Please, Don’t Touch Anything",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 255710,
+      "appName": "Cities: Skylines",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197967124001,
+        76561197985613183,
+        76561197992141408,
+        76561198056736238,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 291650,
+      "appName": "Pillars of Eternity",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197967124001,
+        76561198012288258,
+        76561198023876317,
+        76561198037925831,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 8850,
+      "appName": "BioShock 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197985613183,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 409720,
+      "appName": "BioShock 2 Remastered",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197982079913,
+        76561197985613183,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 235540,
+      "appName": "Warhammer: End Times - Vermintide",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197976112250,
+        76561197982079913,
+        76561197992898710,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 359320,
+      "appName": "Elite Dangerous",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197974429795,
+        76561197982079913,
+        76561197992141408,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 232090,
+      "appName": "Killing Floor 2",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561198021756806,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 232150,
+      "appName": "Killing Floor 2 - SDK",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561197976112250,
+        76561198021756806,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 344410,
+      "appName": "Magnetic: Cage Closed",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 362890,
+      "appName": "Black Mesa",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197976203421,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 363440,
+      "appName": "Mega Man Legacy Collection",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 329460,
+      "appName": "JumpJet Rex",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 365450,
+      "appName": "Hacknet",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 365770,
+      "appName": "Volume",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 234630,
+      "appName": "Project CARS",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561197985613183,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 314680,
+      "appName": "Crypt of the Necrodancer Soundtrack",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197982079913
+      ]
+    },
+    {
+      "appId": 367450,
+      "appName": "Poly Bridge",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 374320,
+      "appName": "DARK SOULS™ III",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561198012288258,
+        76561198021756806,
+        76561198023876317,
+        76561198034824243,
+        76561198063667950,
+        76561198069648796,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 377160,
+      "appName": "Fallout 4",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197976112250,
+        76561197985308858,
+        76561197992141408,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 378720,
+      "appName": "Thea: The Awakening",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 312530,
+      "appName": "Duck Game",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198012288258,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 381210,
+      "appName": "Dead by Daylight",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197992898710,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 384190,
+      "appName": "ABZÛ",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 290340,
+      "appName": "Armello",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198012288258,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 387290,
+      "appName": "Ori and the Blind Forest: Definitive Edition",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198023876317,
+        76561198037925831,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 388210,
+      "appName": "Day of the Tentacle Remastered",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197974429795,
+        76561198008286123,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 388410,
+      "appName": "Darksiders II Deathinitive Edition",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 388750,
+      "appName": "BlazBlue: Chronophantasma Extend",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 388880,
+      "appName": "Oxenfree",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 391540,
+      "appName": "Undertale",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561198008286123,
+        76561198037925831,
+        76561198056736238,
+        76561198063667950,
+        76561198069648796,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 397340,
+      "appName": "SimplePlanes",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197985613183,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 398850,
+      "appName": "Epistory - Typing Chronicles",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 400180,
+      "appName": "Okhlos: Omega",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 400450,
+      "appName": "NeuroVoider",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 405640,
+      "appName": "Pony Island",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421
+      ]
+    },
+    {
+      "appId": 282440,
+      "appName": "Quake Live",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197985613183,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 413150,
+      "appName": "Stardew Valley",
+      "userIds": [
+        76561197990246657,
+        76561197967124001,
+        76561197974429795,
+        76561197982079913,
+        76561198056736238,
+        76561198063667950,
+        76561198102264659,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 418240,
+      "appName": "Shadow Tactics: Blades of the Shogun",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198008286123,
+        76561198023876317,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 423230,
+      "appName": "Furi",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198012288258,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 423580,
+      "appName": "Project Highrise",
+      "userIds": [
+        76561197990246657,
+        76561197985613183,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 424840,
+      "appName": "Little Nightmares",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 426000,
+      "appName": "HunieCam Studio",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197985613183,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 391220,
+      "appName": "Rise of the Tomb Raider",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561198021756806,
+        76561198056736238,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 268500,
+      "appName": "XCOM 2",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992141408,
+        76561197992898710,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 427520,
+      "appName": "Factorio",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197965585671
+      ]
+    },
+    {
+      "appId": 210970,
+      "appName": "The Witness",
+      "userIds": [
+        76561197990246657,
+        76561198037925831,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 428550,
+      "appName": "Momodora: Reverie Under the Moonlight",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 428750,
+      "appName": "Neon Chrome",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 394310,
+      "appName": "Punch Club",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 433850,
+      "appName": "Z1 Battle Royale",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197992141408,
+        76561198008286123,
+        76561198012288258,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 439700,
+      "appName": "H1Z1: Test Server",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197992141408,
+        76561198008286123,
+        76561198012288258,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 290790,
+      "appName": "Grey Goo",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 437570,
+      "appName": "GoNNER",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 364360,
+      "appName": "Total War: WARHAMMER",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 236870,
+      "appName": "HITMAN™",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561198023876317,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 443810,
+      "appName": "This Is the Police",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 446840,
+      "appName": "Splasher",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 365590,
+      "appName": "Tom Clancy's The Division",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 524440,
+      "appName": "Tom Clancy's The Division PTS",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 281990,
+      "appName": "Stellaris",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197965585671,
+        76561197967124001,
+        76561197974429795,
+        76561197985613183,
+        76561197992141408,
+        76561198008286123,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 271240,
+      "appName": "Offworld Trading Company",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197965585671,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 464920,
+      "appName": "Surviving Mars",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 466560,
+      "appName": "Northgard",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992141408,
+        76561197992898710,
+        76561198012288258,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 337000,
+      "appName": "Deus Ex: Mankind Divided™",
+      "userIds": [
+        76561197990246657,
+        76561197992141408,
+        76561197992898710,
+        76561198056736238,
+        76561198063667950,
+        76561198102264659,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 379720,
+      "appName": "DOOM",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197992898710,
+        76561198102264659,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 470260,
+      "appName": "Event[0]",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 473530,
+      "appName": "Slime-san",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 473690,
+      "appName": "Absolver",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 474960,
+      "appName": "Quantum Break",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 475550,
+      "appName": "Beholder",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 477160,
+      "appName": "Human: Fall Flat",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198008286123,
+        76561198023876317
+      ]
+    },
+    {
+      "appId": 480490,
+      "appName": "Prey",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 487430,
+      "appName": "KARAKARA",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 327030,
+      "appName": "Worms W.M.D",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198069648796
+      ]
+    },
+    {
+      "appId": 361230,
+      "appName": "Super Daryl Deluxe",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 491950,
+      "appName": "Orwell",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197965585671,
+        76561197992898710,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 499520,
+      "appName": "The Turing Test",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197976203421,
+        76561197985613183
+      ]
+    },
+    {
+      "appId": 391720,
+      "appName": "Layers of Fear",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 368230,
+      "appName": "Kingdom: Classic",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197992898710,
+        76561198012288258,
+        76561198023876317,
+        76561198037925831,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 496300,
+      "appName": "Kingdom: New Lands",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561198012288258,
+        76561198037925831,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 289070,
+      "appName": "Sid Meier's Civilization VI",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197967124001,
+        76561197976112250,
+        76561197992141408,
+        76561198034824243,
+        76561198056736238,
+        76561198063667950,
+        76561198069648796,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 312660,
+      "appName": "Sniper Elite 4",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 397060,
+      "appName": "Faeria",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 522210,
+      "appName": "Serial Cleaner",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197992898710
+      ]
+    },
+    {
+      "appId": 115800,
+      "appName": "Owlboy",
+      "userIds": [
+        76561197990246657,
+        76561198008286123,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 362960,
+      "appName": "Tyranny",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561197967124001,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 544750,
+      "appName": "SOULCALIBUR VI",
+      "userIds": [
+        76561197990246657,
+        76561198102264659,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 544330,
+      "appName": "Snake Pass",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 548430,
+      "appName": "Deep Rock Galactic",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197982079913,
+        76561197992141408,
+        76561198069648796,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 489830,
+      "appName": "The Elder Scrolls V: Skyrim Special Edition",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197965585671,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197985308858,
+        76561197992141408,
+        76561198008286123,
+        76561198021756806,
+        76561198023876317,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 507490,
+      "appName": "Ashes of the Singularity: Escalation",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197992898710,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 563560,
+      "appName": "Alien Swarm: Reactive Drop",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561197992141408,
+        76561197992898710,
+        76561198021756806,
+        76561198034824243,
+        76561198063667950,
+        76561198069648796,
+        76561198102264659,
+        76561198301047744,
+        76561198311387915,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 429660,
+      "appName": "Tales of Berseria",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 285190,
+      "appName": "Warhammer 40,000: Dawn of War III",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561198006655235,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 588430,
+      "appName": "Fallout Shelter",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198056736238
+      ]
+    },
+    {
+      "appId": 588650,
+      "appName": "Dead Cells",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198069648796,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 460930,
+      "appName": "Tom Clancy's Ghost Recon® Wildlands",
+      "userIds": [
+        76561197990246657,
+        76561197985613183,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 595140,
+      "appName": "Immortal Redneck",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 599390,
+      "appName": "Battle for Wesnoth",
+      "userIds": [
+        76561197990246657,
+        76561197992898710,
+        76561198012288258,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 606150,
+      "appName": "Moonlighter",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 383980,
+      "appName": "Rivals of Aether",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 609490,
+      "appName": "Minit",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 623940,
+      "appName": "HIVESWAP: ACT 1",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 635200,
+      "appName": "Distrust",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198012288258
+      ]
+    },
+    {
+      "appId": 646570,
+      "appName": "Slay the Spire",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197963611038,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198008286123,
+        76561198063667950,
+        76561198069648796,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 674940,
+      "appName": "Stick Fight: The Game",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561198174916595,
+        76561198301047744
+      ]
+    },
+    {
+      "appId": 414340,
+      "appName": "Hellblade: Senua's Sacrifice",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197992141408
+      ]
+    },
+    {
+      "appId": 747350,
+      "appName": "Hellblade: Senua's Sacrifice VR Edition",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197992141408
+      ]
+    },
+    {
+      "appId": 694930,
+      "appName": "Lost God",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561197982079913,
+        76561197992898710,
+        76561198037925831
+      ]
+    },
+    {
+      "appId": 584400,
+      "appName": "Sonic Mania",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198102264659,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 698780,
+      "appName": "Doki Doki Literature Club",
+      "userIds": [
+        76561197990246657,
+        76561197976203421,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 240720,
+      "appName": "Getting Over It with Bennett Foddy",
+      "userIds": [
+        76561197990246657,
+        76561198069648796,
+        76561198174916595
+      ]
+    },
+    {
+      "appId": 635320,
+      "appName": "Last Day of June",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 435150,
+      "appName": "Divinity: Original Sin 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561197976112250,
+        76561197992141408,
+        76561197992898710,
+        76561198008286123,
+        76561198012288258,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 306130,
+      "appName": "The Elder Scrolls Online",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197992141408
+      ]
+    },
+    {
+      "appId": 594570,
+      "appName": "Total War: WARHAMMER II",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963611038,
+        76561198023876317,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 731490,
+      "appName": "Crash Bandicoot™ N. Sane Trilogy",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561197982079913,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 743450,
+      "appName": "Monster Prom",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 476600,
+      "appName": "Call of Duty: WWII",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 476620,
+      "appName": "Call of Duty: WWII - Multiplayer",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 750920,
+      "appName": "Shadow of the Tomb Raider",
+      "userIds": [
+        76561197990246657,
+        76561198056736238,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 427460,
+      "appName": "Battlerite Public Test",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561197982079913,
+        76561197992141408,
+        76561197992898710,
+        76561198012288258,
+        76561198037925831,
+        76561198063667950,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 504370,
+      "appName": "Battlerite",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197976112250,
+        76561197982079913,
+        76561197992141408,
+        76561197992898710,
+        76561198012288258,
+        76561198037925831,
+        76561198063667950,
+        76561198301047744,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 760060,
+      "appName": "Mutant Year Zero: Road to Eden",
+      "userIds": [
+        76561197990246657,
+        76561197963611038,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 379430,
+      "appName": "Kingdom Come: Deliverance",
+      "userIds": [
+        76561197990246657,
+        76561197992141408,
+        76561197992898710,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 209670,
+      "appName": "Cortex Command",
+      "userIds": [
+        76561197990246657,
+        76561197985308858,
+        76561197992898710,
+        76561198034824243
+      ]
+    },
+    {
+      "appId": 813780,
+      "appName": "Age of Empires II: Definitive Edition",
+      "userIds": [
+        76561197990246657,
+        76561197965585671,
+        76561197992141408,
+        76561198023876317,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 552500,
+      "appName": "Warhammer: Vermintide 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197976112250,
+        76561197982079913,
+        76561197992141408,
+        76561197992898710,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 737010,
+      "appName": "Warhammer: Vermintide 2 Closed Test",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197976112250,
+        76561197982079913,
+        76561197992141408,
+        76561197992898710,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 356190,
+      "appName": "Middle-earth™: Shadow of War™",
+      "userIds": [
+        76561197990246657,
+        76561197992141408,
+        76561198023876317,
+        76561198037925831,
+        76561198063667950
+      ]
+    },
+    {
+      "appId": 640820,
+      "appName": "Pathfinder: Kingmaker",
+      "userIds": [
+        76561197990246657,
+        76561198063667950,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 304390,
+      "appName": "For Honor",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197992898710,
+        76561198023876317,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 654310,
+      "appName": "For Honor - Public Test",
+      "userIds": [
+        76561197990246657,
+        76561197974429795,
+        76561197992898710,
+        76561198023876317,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 996580,
+      "appName": "Spyro™ Reignited Trilogy",
+      "userIds": [
+        76561197990246657,
+        76561197976112250,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 418460,
+      "appName": "Rising Storm 2: Vietnam",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197985613183,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 737230,
+      "appName": "Rising Storm 2: Vietnam CTB Beta",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197985613183,
+        76561198102264659
+      ]
+    },
+    {
+      "appId": 462770,
+      "appName": "Pyre",
+      "userIds": [
+        76561197990246657,
+        76561197982079913,
+        76561198008286123
+      ]
+    },
+    {
+      "appId": 570,
+      "appName": "Dota 2",
+      "userIds": [
+        76561197990246657,
+        76561197961196592,
+        76561197963226441,
+        76561197963611038,
+        76561197974429795,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197985613183,
+        76561197992141408,
+        76561197992898710,
+        76561198006655235,
+        76561198012288258,
+        76561198023876317,
+        76561198037925831,
+        76561198056736238,
+        76561198063667950,
+        76561198259233050,
+        76561198376766274
+      ]
+    },
+    {
+      "appId": 630,
+      "appName": "Alien Swarm",
+      "userIds": [
+        76561197990246657,
+        76561197963226441,
+        76561197967124001,
+        76561197974429795,
+        76561197976112250,
+        76561197976203421,
+        76561197982079913,
+        76561197985308858,
+        76561197985613183,
+        76561197992141408,
+        76561197992898710,
+        76561198006655235,
+        76561198012288258,
+        76561198021756806,
+        76561198023876317,
+        76561198034824243,
+        76561198037925831,
+        76561198174916595,
+        76561198259233050,
+        76561198311387915
+      ]
+    }
+  ],
+  "success": true
+}

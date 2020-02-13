@@ -1,0 +1,16 @@
+<template bindable="appusers">
+  <require from="./app-user-row.css"></require>
+
+  <div class="appUserRow">
+    <div class="appName hasToolTip">${appusers.appName}
+      <span class="toolTipText">App ID: ${appusers.appId}</span>
+    </div>
+    <!-- &nbsp;:&nbsp; -->
+    <ul class="owners">
+      <li class="hasToolTip" repeat.for="user of appusers.users">
+        <img class="appUserAvatar" src.one-time="user.avatar.tiny" />
+        <span class="toolTipText">${user.name} (${user.id})</span>
+      </li>
+    </ul>
+  </div>
+</template>

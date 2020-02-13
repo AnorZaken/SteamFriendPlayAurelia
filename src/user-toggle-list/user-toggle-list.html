@@ -1,0 +1,16 @@
+<template>
+  <require from="user-toggle/user-toggle"></require>
+  <require from="./user-toggle-list.css"></require>
+
+  <h2>Users</h2>
+  <ul if.bind="users" class="userToggleList">
+    <li repeat.for="user of users">
+      <user-toggle user.one-time="user" selectedchanged.call="updateSelection(user)" ></user-toggle>
+    </li>
+  </ul>
+
+  <!-- <div>
+    <span>Selection Test:</span>
+    <span repeat.for="user of selected">${user.name} </span>
+  </div> -->
+</template>

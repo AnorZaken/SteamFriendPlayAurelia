@@ -9,7 +9,7 @@ export class FriendPlayApi {
     });
 
   public static async fetch(parameters: FriendPlayRequest): Promise<FriendPlayResponse> {
-    const proxyurl = "http://localhost:5000/";
+    const proxyurl = "";//"http://localhost:5000/";
     let url = `https://steamfriendplay.azurewebsites.net/api/play?userId=${parameters.userId}&ownershipThreshold=${parameters.ownershipThreshold}&onlyUserOwned=${parameters.onlyUserOwned}&includePlayedFreeGames=${parameters.includePlayedFreeGames}`;
     return fetch(proxyurl + url, {
       method: 'get',

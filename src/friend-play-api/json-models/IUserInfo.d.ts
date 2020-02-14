@@ -4,5 +4,5 @@ export interface IUserInfo {
     avatarSmall: string;
     avatarTiny: string;
     profileUrl: string;
-    isPublic: boolean;
+    isVisible: boolean;
 }

@@ -73,14 +73,14 @@ export class App {
       ? null
       : new UserToggleModel(
         fp.steamUserId, fp.userInfo?.name, App._createAvatar(fp?.userInfo),
-        fp.userInfo?.profileUrl, fp.userInfo?.isPublic ?? false);
+        fp.userInfo?.profileUrl, fp.userInfo?.isVisible ?? false);
   }
   
   private _createToggleFriends(friends: IFriend[]): UserToggleModel[] {
     return friends?.map(
       f => new UserToggleModel(
         f.id, f.value?.name, App._createAvatar(f?.value),
-        f.value?.profileUrl, f.value?.isPublic ?? false)
+        f.value?.profileUrl, f.value?.isVisible ?? false)
       );
   }
 

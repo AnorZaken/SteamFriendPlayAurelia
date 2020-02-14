@@ -1,4 +1,8 @@
-# `aurelia-friend-play`
+# `SteamFriendPlay (Aurelia front-end prototype)`
+
+Simple front-end for SteamFriendPlay API enabling a Steam user to explore which games they and their friends have in common, including some basic user filtering.
+
+## Auto-gen
 
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
